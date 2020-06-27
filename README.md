@@ -15,3 +15,5 @@ rlschool==0.3.1
 终端输入python PPGD.py
 # gif
 ![image](https://github.com/QFaceblue/quadrotor/blob/master/quadrotor.gif)
+# image
+![image](https://github.com/QFaceblue/quadrotor/blob/master/quadrotor.png)
