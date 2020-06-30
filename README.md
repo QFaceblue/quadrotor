@@ -1,6 +1,7 @@
 # quadrotor
 参加百度飞桨强化学习7日打卡营 https://aistudio.baidu.com/aistudio/education/group/info/1335  
 参照课程大作业https://aistudio.baidu.com/aistudio/projectdetail/579503使用PARL框架实现四轴飞行器速度控制任务
+利用parl框架实现项目
 # Environment
 paddlepaddle==1.6.3  
 parl==1.3.1  
